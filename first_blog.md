@@ -10,7 +10,7 @@ Just imagine if JK Rowling tried to write Harry Potter on Twitter in 140 charact
 Or if the Declaration of Independece had to be squeezed into a single tweet. Scary to think about isn't it? Let's not.
 The point I am trying to make is greatness cannot be achieved in 140 characters or less.
 
-A couple of quick notes:
+### A couple of quick notes:
 + My mastery of the English language is weak at best. I will often use words that I think fit, but probably not.
   - My hope is that you find my lack of writing ability a nice change of pace.
 + The original intent of this blog was to provide career advice to my friends, family, and colleagues.
@@ -28,27 +28,27 @@ Ready? Ok cool.
 ## 1.) Re-think your e-mail strategy
 Ever write an e-mail and just hit send? That's great but isn't going to get you that promotion anytime soon (anyone can send an e-mail). Instead try this approach:
 
-1.) Write e-mail.
-2.) Make sure it looks good.
+1. Write e-mail.
+2. Make sure it looks good.
 + Run a quick spell check, make sure if you said you were attaching a file that it's actually attached etc.
-3.) Ask yourself this question - is this time sensitive?
+3. Ask yourself this question - is this time sensitive?
   + Most of the time the answer to this is "No".
-4.) If you answered "Yes" you can stop reading.
-5.) If you are still reading this you answered "No" - smart move friend!
-6.) I know it sounds irresponsible but hold off on sending the e-mail.
-7.) Continue your day and forget about the e-mail.
-8.) If it's getting late in the day (say 10 PM), maybe start to think about hitting the sack.
-9.) Once you've decided to go to bed - STOP.
-10.) Log on to your computer.
-11.) Click send on that e-mail we were just talking about.
-12.) Now the e-mail has been sent - wonderful!
+4. If you answered "Yes" you can stop reading.
+5. If you are still reading this you answered "No" - smart move friend!
+6. I know it sounds irresponsible but hold off on sending the e-mail.
+7. Continue your day and forget about the e-mail.
+8. If it's getting late in the day (say 10 PM), maybe start to think about hitting the sack.
+9. Once you've decided to go to bed - STOP.
+10. Log on to your computer.
+11. Click send on that e-mail we were just talking about.
+12. Now the e-mail has been sent - wonderful!
 
 I hope the above instructions were clear! If you implement this strategy as part of your daily workflow you'll notice a couple of things.
 
-1.) Your colleagues and clients will assume (incorrectly) that you will go the extra mile to get your work done.
-2.) You will be viewed as a "team player" - this is a good thing.
-3.) You will garner much more respect from whoever happened to be on that e-mail thread that you replied to late at night.
-4.) A couple of times during the year after you send that late e-mail, make sure to get in the office really early the next day. It will have people saying "Man, that girl is the 1st on in the office and the last one to leave". 
+1. Your colleagues and clients will assume (incorrectly) that you will go the extra mile to get your work done.
+2. You will be viewed as a "team player" - this is a good thing.
+3. You will garner much more respect from whoever happened to be on that e-mail thread that you replied to late at night.
+4. A couple of times during the year after you send that late e-mail, make sure to get in the office really early the next day. It will have people saying "Man, that girl is the 1st on in the office and the last one to leave". 
 + They often say this about really good athletes like Jay Cutler or Dennis Rodman. Soon they will see your face and associate it with greatness.
 
 Did you find that helpful? 
