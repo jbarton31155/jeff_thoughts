@@ -19,7 +19,7 @@ The point I am trying to make is greatness cannot be achieved in 140 characters 
 + Spell check doesn't seem to be available on this platform - you should be able to determine what I mean should I happen to make a tipo. Let's not be nit-picky!
 
 ### Important Message:
-I personally think 'like' buttons are over-rated. They are everywhere and liking a facebook post or tweet is pretty insignificant. That's why I won't have any 'like' buttons on my blog. What I will implement instead is a GoFundMe page. I know you're probably thinking "this guy sucks" or "I'm not giving him my money". But let me challenge you to look at it from my perspective. It would be great to be paid for writing this blog. Also this would ensure that I don't get any phony likes. Instead of 'likes' I will use $ amounts received as my metric for blog success. This will allow me to no what is working and what isn't and curate content for the greater good of my audience. Also I only need $2.99 (per month) and I can put the blog on an actual website - you will see huge benefits from this I think!
+I personally think 'like' buttons are over-rated. They are everywhere and liking a facebook post or tweet is pretty insignificant. That's why I won't have any 'like' buttons on my blog. What I will implement instead is a [GoFundMe page](https://www.gofundme.com/support-for-jeffthoughts-blog). I know you're probably thinking "this guy sucks" or "I'm not giving him my money". But let me challenge you to look at it from my perspective. It would be great to be paid for writing this blog. Also this would ensure that I don't get any phony likes. Instead of 'likes' I will use $ amounts received as my metric for blog success. This will allow me to no what is working and what isn't and curate content for the greater good of my audience. Also I only need $2.99 (per month) and I can put the blog on an actual website - you will see huge benefits from this I think!
 
 There are more administrative pieces I want to cover but I want to make sure this blog gets popular before I get into too much of that. So let's dive into my first piece of career advice.
 
@@ -53,6 +53,9 @@ I hope the above instructions were clear! If you implement this strategy as part
 
 Did you find that helpful? 
 
-Awesome - happy to hear it! If you could show me in $ how great you thought it was that would be great. Head on over to my GoFundMe page now!
+Awesome - happy to hear it! If you could show me in $ how great you thought it was that would be great. Head on over to my [GoFundMe page](https://www.gofundme.com/support-for-jeffthoughts-blog) now!
+
+
+
 
 Thanks for tuning in! Not really sure how to end a blog post...
