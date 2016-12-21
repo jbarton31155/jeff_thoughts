@@ -1,5 +1,17 @@
+### Intro Section of my 1st Blog Post
 Oh hey - didn't see you there! I couldn't be more excited that you have decided to join me on this blourney (blog + journey). First, let's knock a few administrative things out of the way.
 
+### Blog Purpose
+The purpose of this blog is to give career advice. Please see my credentials below.
+
+### Credentials of "Author"
++ Been employed for 3 years.
++ Haven't yet been promoted
+ - I plan on following the advice in this blog to achieve that elusive 1st promotion.
+ - Will continue to update this blog with my progress
++ I've been professionally reviewed 3 times and each time received the equivalent of the "Average" rating.
+
+### Reason for Blogging
 I have decided to start a blog because Twitter is no longer capable of handling my thoughts. 
 The 140 character limit seems sort of arbitrary - and I hate arbitration.
 My feelings towards Twitter are best encapsulated by the classic jam "Club Can't Handle Me Right Now". 
@@ -17,13 +29,18 @@ The point I am trying to make is greatness cannot be achieved in 140 characters 
   - If I happen to get sidetracked at times, that's okay! I will go where my thoughts take me.
 + This is a family friendly blog so please feel free to read with your kids!
 + Spell check doesn't seem to be available on this platform - you should be able to determine what I mean should I happen to make a tipo. Let's not be nit-picky!
++ I'm writing this in GitHub - probably not ideal for a blog but I'll touch on this later when I ask for money.
 
 ### Important Message:
-I personally think 'like' buttons are over-rated. They are everywhere and liking a facebook post or tweet is pretty insignificant. That's why I won't have any 'like' buttons on my blog. What I will implement instead is a [GoFundMe page](https://www.gofundme.com/support-for-jeffthoughts-blog). I know you're probably thinking "this guy sucks" or "I'm not giving him my money". But let me challenge you to look at it from my perspective. It would be great to be paid for writing this blog. Also this would ensure that I don't get any phony likes. Instead of 'likes' I will use $ amounts received as my metric for blog success. This will allow me to no what is working and what isn't and curate content for the greater good of my audience. Also I only need $2.99 (per month) and I can put the blog on an actual website - you will see huge benefits from this I think!
+I personally think 'like' buttons are over-rated. They are everywhere and liking a facebook post or tweet is pretty insignificant. That's why I won't have any 'like' buttons on my blog. What I will implement instead is a [GoFundMe page](https://www.gofundme.com/support-for-jeffthoughts-blog). I know you're probably thinking "this guy sucks" or "I'm not giving him my money" or "what a waste of my time" or "not a chance". But let me challenge you to look at it from a different perspective. Too often people only look at a situation from one perspective and that's really not fair. 
 
-There are more administrative pieces I want to cover but I want to make sure this blog gets popular before I get into too much of that. So let's dive into my first piece of career advice.
+So let's look at it from my perspective. It would be great to be paid for writing this blog - after all it's a huge time commitment and my time is worth something (saw that in an business textbook in college). It would secure future blog posts (think of it like you would a security deposit on an apartment). Additionally, this would ensure that I don't get any phony likes. Instead of 'likes' I will use $ amounts received as my metric for blog success. This will allow me to understand what is working and what isn't and curate content for the greater good of my audience. Also I only need $2.99 (per month) and I can put the blog on an actual website - this will be 'UGE.
 
-Ready? Ok cool.
+There are more administrative pieces I want to cover but I will wait for the blog to get popular before I get into too much of that. So let's dive into my first piece of career advice.
+
+Ready? 
+
+Ok cool. Me too!
 
 ## 1.) Re-think your e-mail strategy
 Ever write an e-mail and just hit send? That's great but isn't going to get you that promotion anytime soon (anyone can send an e-mail). Instead try this approach:
@@ -53,9 +70,6 @@ I hope the above instructions were clear! If you implement this strategy as part
 
 Did you find that helpful? 
 
-Awesome - happy to hear it! If you could show me in $ how great you thought it was that would be great. Head on over to my [GoFundMe page](https://www.gofundme.com/support-for-jeffthoughts-blog) now!
-
-
-
+Awesome - happy to hear it! If you could show me in $ how great you thought it was that would be great. Head on over to my [GoFundMe page](https://www.gofundme.com/support-for-jeffthoughts-blog) now! As a reminder, this is not a pathetic attempt to get money I don't deserve. It's your way to show me how insightful this post was!
 
 Thanks for tuning in! Not really sure how to end a blog post...
