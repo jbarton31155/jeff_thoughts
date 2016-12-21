@@ -16,7 +16,7 @@ The point I am trying to make is greatness cannot be achieved in 140 characters 
 + The original intent of this blog was to provide career advice to my friends, family, and colleagues.
   - If I happen to get sidetracked at times, that's okay! I will go where my thoughts take me.
 + This is a family friendly blog so please feel free to read with your kids!
-+ Spell check doesn't seem to be available on this platform - you should be able to determine what I mean. Let's not be nitpicky!
++ Spell check doesn't seem to be available on this platform - you should be able to determine what I mean should I happen to make a tipo. Let's not be nit-picky!
 
 ### Important Message:
 I personally think 'like' buttons are over-rated. They are everywhere and liking a facebook post or tweet is pretty insignificant. That's why I won't have any 'like' buttons on my blog. What I will implement instead is a GoFundMe page. I know you're probably thinking "this guy sucks" or "I'm not giving him my money". But let me challenge you to look at it from my perspective. It would be great to be paid for writing this blog. Also this would ensure that I don't get any phony likes. Instead of 'likes' I will use $ amounts received as my metric for blog success. This will allow me to no what is working and what isn't and curate content for the greater good of my audience. Also I only need $2.99 (per month) and I can put the blog on an actual website - you will see huge benefits from this I think!
